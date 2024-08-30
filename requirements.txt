@@ -1,0 +1,8 @@
+torch
+torchvision
+albumentations
+pillow
+tqdm
+math
+einops
+functools
