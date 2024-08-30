@@ -1,7 +1,7 @@
-# StarDiffusion [![arXiv](https://arxiv.org/static/arxiv_logo.png)]([https://arxiv.org](https://arxiv.org/abs/2211.09206)) [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark)
+# StarDiffusion [arXiv](https://arxiv.org/abs/2211.09206) [Hugging Face]](https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark)
 
 
-Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight][https://arxiv.org/abs/2211.09206]
+Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight]（https://arxiv.org/abs/2211.09206）
 
 ![Teaser Image](pix/teaser.png)
 
@@ -19,7 +19,7 @@ Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight][h
 ```
 
 ## Dataset
-we construct the first Star Field Image Enhancement Benchmark (SFIEB) that contains 355 real-shot and 854 semi-synthetic star field images, all having the corresponding reference images. You can download the dataset from [Hugging Face][https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark]. Each image has a resolution of 640*640.
+we construct the first Star Field Image Enhancement Benchmark (SFIEB) that contains 355 real-shot and 854 semi-synthetic star field images, all having the corresponding reference images. You can download the dataset from [Hugging Face]（https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark）. Each image has a resolution of 640*640.
 
 
 ## Usage
@@ -29,7 +29,7 @@ First, open **args_file.py** to set the parameters needed for training, the run 
 The weight files generated during training are saved in the **checkpoint** file, and the tensorboard files are saved in the **logs** folder
 
 ### Inference
-Run inference.py, then set the following parameters and run test.py to test the test data set
+Run **inference.py**. We have provided multi pre-trained checkpoints in the **weights** folder.
 
 
 ## Reference
