@@ -1,7 +1,7 @@
-# StarDiffusion [arXiv](https://arxiv.org/abs/2211.09206) [Hugging Face]](https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark)
+# StarDiffusion [arXiv](https://arxiv.org/abs/2211.09206) [Hugging Face](https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark)
 
 
-Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight]（https://arxiv.org/abs/2211.09206）
+Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight](https://arxiv.org/abs/2211.09206)
 
 ![Teaser Image](pix/teaser.png)
 
@@ -19,7 +19,7 @@ Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight]�
 ```
 
 ## Dataset
-we construct the first Star Field Image Enhancement Benchmark (SFIEB) that contains 355 real-shot and 854 semi-synthetic star field images, all having the corresponding reference images. You can download the dataset from [Hugging Face]（https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark）. Each image has a resolution of 640*640.
+we construct the first Star Field Image Enhancement Benchmark (SFIEB) that contains 355 real-shot and 854 semi-synthetic star field images, all having the corresponding reference images. You can download the dataset from [Hugging Face](https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark). Each image has a resolution of 640*640.
 
 
 ## Usage
