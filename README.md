@@ -3,6 +3,10 @@
 
 Offical coda and dataset for [Learning to Kindle the Starlight][https://arxiv.org/abs/2211.09206]
 
+![Teaser Image](pix/teaser.png)
+
+
+
 ## Structure of this project
 ```
 ├─checkpoint  // the weight files generated during the training process
