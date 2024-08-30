@@ -1,7 +1,7 @@
 # StarDiffusion [![arXiv](https://arxiv.org/static/arxiv_logo.png)]([https://arxiv.org](https://arxiv.org/abs/2211.09206)) [![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/datasets/pandaphd/Star_Field_Image_Enhancement_Benchmark)
 
 
-Offical coda and dataset for [Learning to Kindle the Starlight][https://arxiv.org/abs/2211.09206]
+Offical coda and dataset for [StarDiffusion: Learning to Kindle the Starlight][https://arxiv.org/abs/2211.09206]
 
 ![Teaser Image](pix/teaser.png)
 
