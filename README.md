@@ -31,6 +31,8 @@ The weight files generated during training are saved in the **checkpoint** file,
 ### Inference
 Run **inference.py**. We have provided multi pre-trained checkpoints in the **weights** folder.
 
+If the weight file downloaded from Github corrupted, please directly download it from [Google Drive](https://drive.google.com/file/d/1ILYTTo-01TqB-qrfYH46YpUMzQ4fkei3/view?usp=sharing)
+
 
 ## Reference
 ```
